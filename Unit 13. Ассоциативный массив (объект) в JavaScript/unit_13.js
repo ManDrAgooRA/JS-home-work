@@ -127,6 +127,7 @@ function f6() {
     let i62 = document.querySelector('.i-62');
     a6[i61.value] = i62.value;
     f5(a6, '.out-6');
+    console.log(a6);
 }
 
 
